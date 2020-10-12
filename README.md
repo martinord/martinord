@@ -1,4 +1,13 @@
+<p align="center">
+  <a href="https://martinord.eu">
+    <img alt="banner" src="https://github.com/martinord/martinord/blob/main/assets/banner.gif">
+  </a>
+</p>
+
 ### Hi there 👋
+
+- 🔭 I’m currently studying and researching on Cybersecurity
+- 📫 How to reach me: https://martinord.eu/contact
 
 <!--
 **martinord/martinord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
